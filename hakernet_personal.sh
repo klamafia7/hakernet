@@ -1,5 +1,5 @@
 #!/bin/bash
 cd ..
 cd usr
-Cd etc 
+cd etc 
 nano motd
